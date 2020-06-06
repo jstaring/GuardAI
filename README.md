@@ -1,6 +1,11 @@
 # GuardAI
 AI For Games - Assignment UE4
 
+Group:
+Jouke Bertus Staring
+Md Kudrat-E Khuda
+Syeda Ghazal
+
 The guard AI contains the following functions:
 1. Patrolling - The guard AI walks around the map in circles to try to spot the player
 2. Chasing - The guard AI chases the players based on the last location of the player
